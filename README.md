@@ -96,5 +96,5 @@ make
 
 ## Languages
 
-* C++ — 89.9%
+* C++ — 89.8%
 * Makefile — 10.2%
